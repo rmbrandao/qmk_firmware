@@ -53,5 +53,7 @@
             "fileMatch": ["keymap.json"],
             "url": "./data/schemas/keymap.jsonschema"
         }
-    ]
+    ],
+    "cmake.sourceDirectory": "/home/rodrigo/dev/qmk_firmware/lib/googletest",
+    "makefile.configureOnOpen": true
 }
